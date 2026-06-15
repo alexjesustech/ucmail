@@ -6,6 +6,11 @@
 
 ![stack](https://img.shields.io/badge/Plasmo-MV3-blueviolet) ![ts](https://img.shields.io/badge/TypeScript-strict-blue) ![react](https://img.shields.io/badge/React-19-61dafb) ![license](https://img.shields.io/badge/license-MIT-green)
 
+## Status
+
+`0.1.0` — early development (work in progress). The extension is being built; the public
+surface may still change ([SemVer](https://semver.org/) `0.y.z` = unstable).
+
 ## Features (pillars)
 
 | # | Pillar | Status |
@@ -28,6 +33,10 @@ pnpm test
 All work targets the **`develop`** branch — PRs against `main` are rejected by policy.
 See [CONTRIBUTING.md](CONTRIBUTING.md). Docs live in the companion repo
 [`UCMail-docs`](https://github.com/alexjesustech/UCMail-docs).
+
+## License
+
+[MIT](LICENSE) © 2026 Alex Jesus.
 
 ---
 **Alex Jesus** · [`alexjesustech`](https://github.com/alexjesustech) · alexjesus.tech@gmail.com
